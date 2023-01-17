@@ -1,0 +1,15 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\bin\Debug\net6.0\Aika.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\bin\Debug\net6.0\Aika.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\bin\Debug\net6.0\Aika.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\bin\Debug\net6.0\Aika.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\bin\Debug\net6.0\Aika.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\refint\Aika.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\Aika.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\Aika\obj\Debug\net6.0\ref\Aika.dll

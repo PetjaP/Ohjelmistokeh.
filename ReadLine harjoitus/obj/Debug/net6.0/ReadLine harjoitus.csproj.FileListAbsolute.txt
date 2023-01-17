@@ -1,0 +1,15 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\bin\Debug\net6.0\ReadLine harjoitus.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\bin\Debug\net6.0\ReadLine harjoitus.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\bin\Debug\net6.0\ReadLine harjoitus.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\bin\Debug\net6.0\ReadLine harjoitus.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\bin\Debug\net6.0\ReadLine harjoitus.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\refint\ReadLine harjoitus.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ReadLine harjoitus.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Projekti01\ReadLine harjoitus\obj\Debug\net6.0\ref\ReadLine harjoitus.dll
