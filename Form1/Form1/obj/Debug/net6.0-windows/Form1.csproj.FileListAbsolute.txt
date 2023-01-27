@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\bin\Debug\net6.0-windows\Form1.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\bin\Debug\net6.0-windows\Form1.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\bin\Debug\net6.0-windows\Form1.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\bin\Debug\net6.0-windows\Form1.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\bin\Debug\net6.0-windows\Form1.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\refint\Form1.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\ref\Form1.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokehittaja\Form1\Form1\obj\Debug\net6.0-windows\Form1.Harjoitus1.resources

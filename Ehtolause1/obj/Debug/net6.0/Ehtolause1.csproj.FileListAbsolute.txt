@@ -1,0 +1,15 @@
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.csproj.AssemblyReference.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.AssemblyInfoInputs.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.AssemblyInfo.cs
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.csproj.CoreCompileInputs.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\bin\Debug\net6.0\Ehtolause1.exe
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\bin\Debug\net6.0\Ehtolause1.deps.json
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\bin\Debug\net6.0\Ehtolause1.runtimeconfig.json
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\bin\Debug\net6.0\Ehtolause1.dll
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\bin\Debug\net6.0\Ehtolause1.pdb
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.dll
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\refint\Ehtolause1.dll
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.pdb
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\Ehtolause1.genruntimeconfig.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\Ehtolause1\obj\Debug\net6.0\ref\Ehtolause1.dll

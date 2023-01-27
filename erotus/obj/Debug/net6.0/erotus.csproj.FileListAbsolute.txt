@@ -1,0 +1,15 @@
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\bin\Debug\net6.0\erotus.exe
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\bin\Debug\net6.0\erotus.deps.json
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\bin\Debug\net6.0\erotus.runtimeconfig.json
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\bin\Debug\net6.0\erotus.dll
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\bin\Debug\net6.0\erotus.pdb
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.csproj.AssemblyReference.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.AssemblyInfoInputs.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.AssemblyInfo.cs
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.csproj.CoreCompileInputs.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.dll
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\refint\erotus.dll
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.pdb
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\erotus.genruntimeconfig.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\erotus\obj\Debug\net6.0\ref\erotus.dll

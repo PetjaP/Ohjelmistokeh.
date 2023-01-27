@@ -11,7 +11,7 @@
         "projectName": "OmaNimi",
         "projectPath": "C:\\Users\\roku8\\Source\\Repos\\PetjaP\\Ohjelmistokeh\\OmaNimi\\OmaNimi.csproj",
         "packagesPath": "C:\\Users\\roku8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\OmaNimi\\obj\\",
+        "outputPath": "C:\\Users\\roku8\\Source\\Repos\\PetjaP\\Ohjelmistokeh\\OmaNimi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

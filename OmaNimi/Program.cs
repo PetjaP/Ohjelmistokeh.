@@ -7,8 +7,8 @@ internal class Program
         string enimi = Console.ReadLine();
         Console.Write("Anna sukunimesi: ");
         string snimi = Console.ReadLine();
-        Console.WriteLine("Heippa!, " + enimi + " " + snimi);
-        // Toinen tapa:
-        //Console.WriteLine("Heippa!{0} {1}",enimi ,snimi);//
+        Console.WriteLine("Heippa! " + enimi + " " + snimi);
+        /* Toinen tapa:
+        Console.WriteLine("Heippa!{0} {1}",enimi ,snimi);*/
     }
 }

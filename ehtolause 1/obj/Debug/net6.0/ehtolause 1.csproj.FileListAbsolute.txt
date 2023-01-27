@@ -1,0 +1,5 @@
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\ehtolause 1\obj\Debug\net6.0\ehtolause 1.csproj.AssemblyReference.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\ehtolause 1\obj\Debug\net6.0\ehtolause 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\ehtolause 1\obj\Debug\net6.0\ehtolause 1.AssemblyInfoInputs.cache
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\ehtolause 1\obj\Debug\net6.0\ehtolause 1.AssemblyInfo.cs
+C:\Users\roku8\Source\Repos\PetjaP\Ohjelmistokeh\ehtolause 1\obj\Debug\net6.0\ehtolause 1.csproj.CoreCompileInputs.cache
