@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\bin\Debug\net6.0-windows\SalasananTarkistus.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\bin\Debug\net6.0-windows\SalasananTarkistus.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\bin\Debug\net6.0-windows\SalasananTarkistus.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\bin\Debug\net6.0-windows\SalasananTarkistus.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\bin\Debug\net6.0-windows\SalasananTarkistus.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.SalasanaForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\refint\SalasananTarkistus.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\SalasananTarkistus.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\SalasananTarkistus\obj\Debug\net6.0-windows\ref\SalasananTarkistus.dll
