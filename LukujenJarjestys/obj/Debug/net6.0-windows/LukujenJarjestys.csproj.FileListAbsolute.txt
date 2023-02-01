@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\refint\LukujenJarjestys.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\LukujenJarjestys\obj\Debug\net6.0-windows\ref\LukujenJarjestys.dll
