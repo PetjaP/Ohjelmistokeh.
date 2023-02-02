@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.kuluLaskuri.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\bin\Debug\net6.0-windows\AutonKululaskuri.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\bin\Debug\net6.0-windows\AutonKululaskuri.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\bin\Debug\net6.0-windows\AutonKululaskuri.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\bin\Debug\net6.0-windows\AutonKululaskuri.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\bin\Debug\net6.0-windows\AutonKululaskuri.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\refint\AutonKululaskuri.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\AutonKululaskuri.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\AutonKululaskuri\obj\Debug\net6.0-windows\ref\AutonKululaskuri.dll
