@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.Form1.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\bin\Debug\net6.0-windows\BMILaskuri.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\bin\Debug\net6.0-windows\BMILaskuri.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\bin\Debug\net6.0-windows\BMILaskuri.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\bin\Debug\net6.0-windows\BMILaskuri.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\bin\Debug\net6.0-windows\BMILaskuri.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\refint\BMILaskuri.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\BMILaskuri.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\BMILaskuri\obj\Debug\net6.0-windows\ref\BMILaskuri.dll
