@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.VastauslomakeForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\bin\Debug\net6.0-windows\VastausLomake.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\bin\Debug\net6.0-windows\VastausLomake.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\bin\Debug\net6.0-windows\VastausLomake.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\bin\Debug\net6.0-windows\VastausLomake.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\bin\Debug\net6.0-windows\VastausLomake.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\refint\VastausLomake.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\VastausLomake.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\VastausLomake\obj\Debug\net6.0-windows\ref\VastausLomake.dll
