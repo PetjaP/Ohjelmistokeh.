@@ -1,0 +1,7 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.RoomalaisiksiForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.CoreCompileInputs.cache
