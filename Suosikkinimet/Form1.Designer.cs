@@ -37,23 +37,25 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(12, 91);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(761, 32);
+            this.label1.Size = new System.Drawing.Size(661, 30);
             this.label1.TabIndex = 0;
             this.label1.Text = "Anna nimesi, niin tarkastan onko se 50 suosituimman nimen joukossa:";
             // 
             // NimiTB
             // 
-            this.NimiTB.Location = new System.Drawing.Point(793, 88);
+            this.NimiTB.Location = new System.Drawing.Point(692, 95);
             this.NimiTB.Name = "NimiTB";
-            this.NimiTB.Size = new System.Drawing.Size(150, 39);
+            this.NimiTB.Size = new System.Drawing.Size(150, 29);
             this.NimiTB.TabIndex = 1;
             this.NimiTB.TextChanged += new System.EventHandler(this.NimiTB_TextChanged);
             // 
             // VastausLB
             // 
             this.VastausLB.AutoSize = true;
+            this.VastausLB.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.VastausLB.Location = new System.Drawing.Point(35, 184);
             this.VastausLB.Name = "VastausLB";
             this.VastausLB.Size = new System.Drawing.Size(93, 32);
@@ -63,7 +65,7 @@
             // 
             // TarkastaBT
             // 
-            this.TarkastaBT.Location = new System.Drawing.Point(793, 164);
+            this.TarkastaBT.Location = new System.Drawing.Point(692, 154);
             this.TarkastaBT.Name = "TarkastaBT";
             this.TarkastaBT.Size = new System.Drawing.Size(150, 62);
             this.TarkastaBT.TabIndex = 3;
@@ -73,7 +75,7 @@
             // 
             // SuosikkiForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1040, 576);
             this.Controls.Add(this.TarkastaBT);
