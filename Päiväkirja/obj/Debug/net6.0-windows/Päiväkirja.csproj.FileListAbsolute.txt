@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.PaivakirjaForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\refint\Päiväkirja.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Päiväkirja\obj\Debug\net6.0-windows\ref\Päiväkirja.dll

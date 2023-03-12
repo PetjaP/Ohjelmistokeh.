@@ -1,0 +1,7 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.AjastinForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.CoreCompileInputs.cache

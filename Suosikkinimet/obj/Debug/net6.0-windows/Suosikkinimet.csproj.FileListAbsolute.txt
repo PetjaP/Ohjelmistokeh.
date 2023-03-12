@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.SuosikkiForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\bin\Debug\net6.0-windows\Suosikkinimet.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\bin\Debug\net6.0-windows\Suosikkinimet.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\bin\Debug\net6.0-windows\Suosikkinimet.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\bin\Debug\net6.0-windows\Suosikkinimet.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\bin\Debug\net6.0-windows\Suosikkinimet.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\refint\Suosikkinimet.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\Suosikkinimet.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Suosikkinimet\obj\Debug\net6.0-windows\ref\Suosikkinimet.dll

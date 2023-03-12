@@ -1,0 +1,7 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.AvainhenkilotForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilaitos\obj\Debug\net6.0-windows\Oppilaitos.csproj.CoreCompileInputs.cache

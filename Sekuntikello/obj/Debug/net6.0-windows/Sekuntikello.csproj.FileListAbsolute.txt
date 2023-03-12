@@ -1,0 +1,17 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.SekkariForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.AssemblyInfoInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.AssemblyInfo.cs
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\refint\Sekuntikello.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Sekuntikello\obj\Debug\net6.0-windows\ref\Sekuntikello.dll

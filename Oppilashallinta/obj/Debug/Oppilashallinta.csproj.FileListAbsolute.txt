@@ -1,0 +1,7 @@
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.csproj.AssemblyReference.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.csproj.SuggestedBindingRedirects.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.exe.config
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.OppilashallintaForm.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.Properties.Resources.resources
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.csproj.GenerateResource.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Oppilashallinta\obj\Debug\Oppilashallinta.csproj.CoreCompileInputs.cache
