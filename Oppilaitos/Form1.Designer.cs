@@ -49,7 +49,7 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(148, 23);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(711, 74);
+            this.label1.Size = new System.Drawing.Size(480, 51);
             this.label1.TabIndex = 0;
             this.label1.Text = "Oppilaitosten avainhenkilöt";
             // 
@@ -58,7 +58,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(156, 132);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(198, 32);
+            this.label2.Size = new System.Drawing.Size(130, 21);
             this.label2.TabIndex = 1;
             this.label2.Text = "Valitse oppilaitos:";
             // 
@@ -67,7 +67,7 @@
             this.OppilaitosCB.FormattingEnabled = true;
             this.OppilaitosCB.Location = new System.Drawing.Point(156, 193);
             this.OppilaitosCB.Name = "OppilaitosCB";
-            this.OppilaitosCB.Size = new System.Drawing.Size(198, 40);
+            this.OppilaitosCB.Size = new System.Drawing.Size(198, 29);
             this.OppilaitosCB.TabIndex = 2;
             this.OppilaitosCB.SelectedIndexChanged += new System.EventHandler(this.OppilaitosCB_SelectedIndexChanged);
             // 
@@ -76,7 +76,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(614, 132);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(243, 32);
+            this.label3.Size = new System.Drawing.Size(159, 21);
             this.label3.TabIndex = 3;
             this.label3.Text = "Valitse vastuuhenkilö:";
             // 
@@ -85,7 +85,7 @@
             this.VastuuhenkiloCB.FormattingEnabled = true;
             this.VastuuhenkiloCB.Location = new System.Drawing.Point(614, 186);
             this.VastuuhenkiloCB.Name = "VastuuhenkiloCB";
-            this.VastuuhenkiloCB.Size = new System.Drawing.Size(243, 40);
+            this.VastuuhenkiloCB.Size = new System.Drawing.Size(243, 29);
             this.VastuuhenkiloCB.TabIndex = 4;
             // 
             // OsoiteLB
@@ -93,7 +93,7 @@
             this.OsoiteLB.AutoSize = true;
             this.OsoiteLB.Location = new System.Drawing.Point(153, 262);
             this.OsoiteLB.Name = "OsoiteLB";
-            this.OsoiteLB.Size = new System.Drawing.Size(83, 32);
+            this.OsoiteLB.Size = new System.Drawing.Size(55, 21);
             this.OsoiteLB.TabIndex = 5;
             this.OsoiteLB.Text = "Osoite";
             // 
@@ -102,7 +102,7 @@
             this.PostinroLB.AutoSize = true;
             this.PostinroLB.Location = new System.Drawing.Point(153, 323);
             this.PostinroLB.Name = "PostinroLB";
-            this.PostinroLB.Size = new System.Drawing.Size(148, 32);
+            this.PostinroLB.Size = new System.Drawing.Size(98, 21);
             this.PostinroLB.TabIndex = 6;
             this.PostinroLB.Text = "Postinumero";
             // 
@@ -111,7 +111,7 @@
             this.PostitoimipaikkaLB.AutoSize = true;
             this.PostitoimipaikkaLB.Location = new System.Drawing.Point(153, 384);
             this.PostitoimipaikkaLB.Name = "PostitoimipaikkaLB";
-            this.PostitoimipaikkaLB.Size = new System.Drawing.Size(187, 32);
+            this.PostitoimipaikkaLB.Size = new System.Drawing.Size(124, 21);
             this.PostitoimipaikkaLB.TabIndex = 7;
             this.PostitoimipaikkaLB.Text = "Postitoimipaikka";
             // 
@@ -120,7 +120,7 @@
             this.PuhelinLB.AutoSize = true;
             this.PuhelinLB.Location = new System.Drawing.Point(156, 445);
             this.PuhelinLB.Name = "PuhelinLB";
-            this.PuhelinLB.Size = new System.Drawing.Size(94, 32);
+            this.PuhelinLB.Size = new System.Drawing.Size(62, 21);
             this.PuhelinLB.TabIndex = 8;
             this.PuhelinLB.Text = "Puhelin";
             // 
@@ -129,7 +129,7 @@
             this.PuhLB.AutoSize = true;
             this.PuhLB.Location = new System.Drawing.Point(617, 445);
             this.PuhLB.Name = "PuhLB";
-            this.PuhLB.Size = new System.Drawing.Size(94, 32);
+            this.PuhLB.Size = new System.Drawing.Size(62, 21);
             this.PuhLB.TabIndex = 12;
             this.PuhLB.Text = "Puhelin";
             // 
@@ -138,7 +138,7 @@
             this.EmailLB.AutoSize = true;
             this.EmailLB.Location = new System.Drawing.Point(614, 384);
             this.EmailLB.Name = "EmailLB";
-            this.EmailLB.Size = new System.Drawing.Size(131, 32);
+            this.EmailLB.Size = new System.Drawing.Size(87, 21);
             this.EmailLB.TabIndex = 11;
             this.EmailLB.Text = "Sähköposti";
             // 
@@ -147,7 +147,7 @@
             this.OsastoLB.AutoSize = true;
             this.OsastoLB.Location = new System.Drawing.Point(614, 323);
             this.OsastoLB.Name = "OsastoLB";
-            this.OsastoLB.Size = new System.Drawing.Size(86, 32);
+            this.OsastoLB.Size = new System.Drawing.Size(58, 21);
             this.OsastoLB.TabIndex = 10;
             this.OsastoLB.Text = "Osasto";
             // 
@@ -156,13 +156,13 @@
             this.TitteliLB.AutoSize = true;
             this.TitteliLB.Location = new System.Drawing.Point(614, 262);
             this.TitteliLB.Name = "TitteliLB";
-            this.TitteliLB.Size = new System.Drawing.Size(74, 32);
+            this.TitteliLB.Size = new System.Drawing.Size(48, 21);
             this.TitteliLB.TabIndex = 9;
             this.TitteliLB.Text = "Titteli";
             // 
             // AvainhenkilotForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1029, 588);
             this.Controls.Add(this.PuhLB);
@@ -179,7 +179,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "AvainhenkilotForm";
             this.Text = "Oppilaitosten avainhenkilöt";
             this.Load += new System.EventHandler(this.AvainhenkilotForm_Load);

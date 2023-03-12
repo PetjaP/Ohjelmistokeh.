@@ -29,9 +29,10 @@ namespace Oppilaitos
         private void AvainhenkilotForm_Load(object sender, EventArgs e)
         {
             taytaOppilaitosTaulukko();
-            OppilaitosCB.Datasource = oppilaitos; // Mist‰ CB hakee datan
-            OppilaitosCB.DisplayMember = "ONimi"; // Mit‰ t‰ss‰ kohtaa n‰ytet‰‰n
             taytavastuuHenkilotTaulukko();
+            OppilaitosCB.DataSource = oppilaitos; // Mist‰ CB hakee datan
+            OppilaitosCB.DisplayMember = "ONimi"; // Mit‰ t‰ss‰ kohtaa n‰ytet‰‰n
+            
         }
 
         private void taytaOppilaitosTaulukko()
