@@ -33,7 +33,7 @@ namespace Oppilashallinta
         // Luodaan funktio yhteyden sulkemista varten
         public void suljeYhteys() // Sulkee yhteyden
         {
-            if (yhteys.State = ConnectionState.Open) // Tarkistaa jos on auki
+            if (yhteys.State == ConnectionState.Open) // Tarkistaa jos on auki
             {
                 yhteys.Close(); // Sulkee yhteyden!
             }

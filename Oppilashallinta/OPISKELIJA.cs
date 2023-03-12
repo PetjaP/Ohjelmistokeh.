@@ -18,7 +18,7 @@ namespace Oppilashallinta
             MySqlCommand komento = new MySqlCommand();
             string lisayskysely = "INSERT INTO yhteystiedot " + // Mihin lisätään (taulukko)
                 "(etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero) " + // Kentät mihin lisätään
-                "VALUES (@enm, @snm, @puh, @eml, @ono"; ";  ;
+                "VALUES (@enm, @snm, @puh, @eml, @ono";
                 komento.CommandText= lisayskysely;
                 komento.Connection = yhteys.otaYhteys();
                 // @ktu,@enm,@snm,@oso,@pno,@ptp,@ssa
