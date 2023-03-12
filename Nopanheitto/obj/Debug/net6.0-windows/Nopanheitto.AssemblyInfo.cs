@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("NopanHeitto")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Nopanheitto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("NopanHeitto")]
-[assembly: System.Reflection.AssemblyTitleAttribute("NopanHeitto")]
+[assembly: System.Reflection.AssemblyProductAttribute("Nopanheitto")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Nopanheitto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

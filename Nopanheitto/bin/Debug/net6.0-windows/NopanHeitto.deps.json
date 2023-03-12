@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "NopanHeitto/1.0.0": {
+      "Nopanheitto/1.0.0": {
         "runtime": {
-          "NopanHeitto.dll": {}
+          "Nopanheitto.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "NopanHeitto/1.0.0": {
+    "Nopanheitto/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

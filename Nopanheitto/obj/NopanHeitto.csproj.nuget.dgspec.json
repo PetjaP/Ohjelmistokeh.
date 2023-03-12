@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\NopanHeitto\\NopanHeitto.csproj": {}
+    "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\Nopanheitto\\NopanHeitto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\NopanHeitto\\NopanHeitto.csproj": {
+    "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\Nopanheitto\\NopanHeitto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\NopanHeitto\\NopanHeitto.csproj",
+        "projectUniqueName": "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\Nopanheitto\\NopanHeitto.csproj",
         "projectName": "NopanHeitto",
-        "projectPath": "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\NopanHeitto\\NopanHeitto.csproj",
+        "projectPath": "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\Nopanheitto\\NopanHeitto.csproj",
         "packagesPath": "C:\\Users\\roku8\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\roku8\\source\\repos\\PetjaP\\Ohjelmistokeh\\NopanHeitto\\obj\\",
         "projectStyle": "PackageReference",
