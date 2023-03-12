@@ -13,10 +13,10 @@ namespace Ajastin
         private void AjastinForm_Load(object sender, EventArgs e)
         {
             pysaytaBT.Enabled = false; // Tämä poistaa pysäytä napin käytöstä!
-            for (int = 0; i < 60; i++) 
+            for (int i=0; i < 60; i++) 
             {
                 minuutitCB.Items.Add(i.ToString()); // Lisää minuutteihin 0-59
-                sekunnitCB.Items.Add(i.toString()); // Lisää sekunteihin 0-59
+                sekunnitCB.Items.Add(i.ToString()); // Lisää sekunteihin 0-59
             }
             minuutitCB.SelectedIndex = 30; // Määrittelee, että oletus on 30
             sekunnitCB.SelectedIndex = 0; // Määrittelee, että oletus on 0

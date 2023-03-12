@@ -5,3 +5,13 @@ C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-window
 C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfoInputs.cache
 C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfo.cs
 C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\bin\Debug\net6.0-windows\Ajastin.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\bin\Debug\net6.0-windows\Ajastin.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\bin\Debug\net6.0-windows\Ajastin.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\bin\Debug\net6.0-windows\Ajastin.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\bin\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\refint\Ajastin.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\Ajastin.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Ajastin\obj\Debug\net6.0-windows\ref\Ajastin.dll
