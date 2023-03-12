@@ -101,35 +101,35 @@ namespace Roomalaiset
         }
         private string kympit(int luku3, string vastaus)
         {
-            if (luku3 % 9 && luku3 != 0)
+            if (luku3 % 9 == 0 && luku3 != 0)
             {
                 return "XC";
             }
-            else if (luku3 % 8 && luku3 != 0)
+            else if (luku3 % 8 == 0 && luku3 != 0)
             {
                 return "LXXX";
             }
-            else if (luku3 % 7 && luku3 != 0)
+            else if (luku3 % 7 == 0 && luku3 != 0)
             {
                 return "LXX";
             }
-            else if (luku3 % 6 && luku3 != 0)
+            else if (luku3 % 6 == 0 && luku3 != 0)
             {
                 return "LX";
             }
-            else if (luku3 % 4 && luku3 != 0)
+            else if (luku3 % 4 == 0 && luku3 != 0)
             {
                 return "XL";
             }
-            else if (luku3 % 3 && luku3 != 0)
+            else if (luku3 % 3 == 0 && luku3 != 0)
             {
                 return "XXX";
             }
-            else if (luku3 % 2 && luku3 != 0)
+            else if (luku3 % 2 == 0 && luku3 != 0)
             {
                 return "XX";
             }
-            else if (luku3 % 1 && luku3 != 0)
+            else if (luku3 % 1 == 0 && luku3 != 0)
             {
                 return "X";
             }
@@ -140,39 +140,39 @@ namespace Roomalaiset
         }
         private string ykkoset(int luku4, string vastaus)
         {
-            if (luku4 % 9 && luku4 != 0)
+            if (luku4 % 9 == 0 && luku4 != 0)
             {
                 return "IX";
             }
-            else if (luku4 % 8 && luku4 != 0)
+            else if (luku4 % 8 == 0 && luku4 != 0)
             {
                 return "VIII";
             }
-            else if (luku4 % 7 && luku4 != 0)
+            else if (luku4 % 7 == 0 && luku4 != 0)
             {
                 return "VII";
             }
-            else if (luku4 % 6 && luku4 != 0)
+            else if (luku4 % 6 == 0 && luku4 != 0)
             {
                 return "VI";
             }
-            else if (luku4 % 5 && luku4 != 0)
+            else if (luku4 % 5 == 0 && luku4 != 0)
             {
                 return "V";
             }
-            else if (luku4 % 4 && luku4 != 0)
+            else if (luku4 % 4 == 0 && luku4 != 0)
             {
                 return "IV";
             }
-            else if (luku4 % 3  && luku4 != 0)
+            else if (luku4 % 3 == 0 && luku4 != 0)
             {
                 return "III";
             }
-            else if (luku4 % 2 && luku4 != 0)
+            else if (luku4 % 2 == 0 && luku4 != 0)
             {
                 return "II";
             }
-            else if (luku4 % 1 && luku4 != 0)
+            else if (luku4 % 1 == 0 && luku4 != 0)
             {
                 return "I";
             }

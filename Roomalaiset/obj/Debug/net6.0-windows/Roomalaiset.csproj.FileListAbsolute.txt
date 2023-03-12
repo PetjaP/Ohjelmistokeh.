@@ -5,3 +5,13 @@ C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-wi
 C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.AssemblyInfoInputs.cache
 C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.AssemblyInfo.cs
 C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.CoreCompileInputs.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.exe
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.deps.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.runtimeconfig.json
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\refint\Roomalaiset.dll
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.pdb
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.genruntimeconfig.cache
+C:\Users\roku8\source\repos\PetjaP\Ohjelmistokeh\Roomalaiset\obj\Debug\net6.0-windows\ref\Roomalaiset.dll
