@@ -30,7 +30,7 @@ namespace Oppilaitos
         {
             taytaOppilaitosTaulukko();
             OppilaitosCB.Datasource = oppilaitos; // Mist‰ CB hakee datan
-            OppilaitosCB.DisplayMember = "VNimi"; // Mit‰ t‰ss‰ kohtaa n‰ytet‰‰n
+            OppilaitosCB.DisplayMember = "ONimi"; // Mit‰ t‰ss‰ kohtaa n‰ytet‰‰n
             taytavastuuHenkilotTaulukko();
         }
 
