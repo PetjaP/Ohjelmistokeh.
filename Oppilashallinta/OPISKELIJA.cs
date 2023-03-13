@@ -80,7 +80,7 @@ namespace Oppilashallinta
                 return false;
             }
         }
-        public bool poistaOpiskelija(String ktunnus)
+        public bool poistaOpiskelija(String ktunnus) //Funktio opiskelijan poistoa varten. Tähän tarvitaan vain käyttäjätunnus
         {
             MySqlCommand komento = new MySqlCommand();
             String poistokysely = "DELETE FROM yhteystiedot WHERE oid = @ktu";

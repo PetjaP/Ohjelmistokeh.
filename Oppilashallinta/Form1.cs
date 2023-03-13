@@ -76,6 +76,18 @@ namespace Oppilashallinta
             {
                 MessageBox.Show("VIRHE - Vaaditut kentät - ID, Etu- ja sukunimi, puhelin, sähköposti ja opiskelijanumero", "Tyhjä kenttä", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            else
+            {
+                Boolean lisaaOpiskelija = opiskelija.muokkaaOpiskelijaa(oid, enimi, snimi, puhelin, email, onro);
+                if(lisaaOpiskelija)
+                {
+                    MessageBox.Show("Opiskelija päivitetty onnistuneesti", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else 
+                {
+                    MessageBox.Show("Opiskelijaa ei pystytty päivittämään", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
             tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
         
@@ -104,5 +116,8 @@ private void tietotauluDG_CellContentClick(object sender, DataGridViewCellEventA
             poistaBT.PerformClick();
         }
         
+        
     }
+   
+   
 }
