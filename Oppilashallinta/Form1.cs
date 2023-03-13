@@ -9,10 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
+
 namespace Oppilashallinta
 {
     public partial class OppilashallintaForm : Form
     {
+        OPISKELIJA opiskelija = new OPISKELIJA();
         public OppilashallintaForm()
         {
             InitializeComponent();
@@ -20,7 +22,7 @@ namespace Oppilashallinta
 
         private void OppilashallintaForm_Load(object sender, EventArgs e)
         {
-            tietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
         private void tyhjennaBT_Click(object sender, EventArgs e)
@@ -47,7 +49,7 @@ namespace Oppilashallinta
             }
             else
             {
-                Boolean lisaaAsiakas = OPISKELIJA.lisaaOpiskelija(enimi, snimi, puhelin, email, onro);
+                Boolean lisaaAsiakas = opiskelija.lisaaOpiskelija(enimi, snimi, puhelin, email, onro);
                 if (lisaaAsiakas) 
                 {
                     MessageBox.Show("Uusi opiskelija lisätty onnistuneesti", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -57,7 +59,7 @@ namespace Oppilashallinta
                     MessageBox.Show("Uutta opiskelijaa ei pystytty lisäämään", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
-            tietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
 
         }
 
@@ -74,7 +76,7 @@ namespace Oppilashallinta
             {
                 MessageBox.Show("VIRHE - Vaaditut kentät - ID, Etu- ja sukunimi, puhelin, sähköposti ja opiskelijanumero", "Tyhjä kenttä", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            tietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
         
 private void tietotauluDG_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -90,9 +92,9 @@ private void tietotauluDG_CellContentClick(object sender, DataGridViewCellEventA
         private void poistaBT_Click(object sender, EventArgs e)
         {
             String ktunnus = opiskelijaidTB.Text;
-            if (OPISKELIJA.poistaOpiskelija(ktunnus))
+            if (opiskelija.poistaOpiskelija(ktunnus))
             {
-                tietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+                tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
                 MessageBox.Show("Opiskelija poistettu onnistuneesti", "Opiskelijan poisto", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else 

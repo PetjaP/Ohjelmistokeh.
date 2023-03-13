@@ -18,15 +18,15 @@ namespace Oppilashallinta
             MySqlCommand komento = new MySqlCommand();
             string lisayskysely = "INSERT INTO yhteystiedot " + // Mihin lisätään (taulukko)
                 "(etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero) " + // Kentät mihin lisätään
-                "VALUES (@enm, @snm, @puh, @eml, @ono";
+                "VALUES (@enm, @snm, @puh, @eml, @ono)";
                 komento.CommandText= lisayskysely;
                 komento.Connection = yhteys.otaYhteys();
                 // @ktu,@enm,@snm,@oso,@pno,@ptp,@ssa
-                komento.Parameters.Add("enm", MySqlDbType.VarChar).Value = enimi; // Kerrotaan minkä tyyppisiä tiedot ovat ( Määritetty MySQL:ssä )
-                komento.Parameters.Add("snm", MySqlDbType.VarChar).Value= snimi;
-                komento.Parameters.Add("puh", MySqlDbType.VarChar).Value = puh;
-                komento.Parameters.Add("email", MySqlDbType.VarChar).Value = email;
-                komento.Parameters.Add("ono", MySqlDbType.UInt32).Value = onro; // Huom määritetty INTIKSI MYSQL:ssä
+                komento.Parameters.Add("@enm", MySqlDbType.VarChar).Value = enimi; // Kerrotaan minkä tyyppisiä tiedot ovat ( Määritetty MySQL:ssä )
+                komento.Parameters.Add("@snm", MySqlDbType.VarChar).Value= snimi;
+                komento.Parameters.Add("@puh", MySqlDbType.VarChar).Value = puh;
+                komento.Parameters.Add("@eml", MySqlDbType.VarChar).Value = email;
+                komento.Parameters.Add("@ono", MySqlDbType.UInt32).Value = onro; // Huom määritetty INTIKSI MYSQL:ssä
             yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1) // Jos tämä komento toimii
             {
@@ -42,7 +42,7 @@ namespace Oppilashallinta
         }
         public DataTable haeOpiskelijat() // Funktio opiskelijoiden hakemiseen
         {
-            MySqlCommand komento = new MySqlCommand("SELECT oid, etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero, FROM yhteystiedot", yhteys.otaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT oid, etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero FROM yhteystiedot", yhteys.otaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
 
