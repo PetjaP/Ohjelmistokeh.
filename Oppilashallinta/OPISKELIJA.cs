@@ -83,11 +83,11 @@ namespace Oppilashallinta
         public bool poistaOpiskelija(String ktunnus) //Funktio opiskelijan poistoa varten. Tähän tarvitaan vain käyttäjätunnus
         {
             MySqlCommand komento = new MySqlCommand();
-            String poistokysely = "DELETE FROM yhteystiedot WHERE oid = @ktu";
+            String poistokysely = "DELETE FROM yhteystiedot WHERE oid = @oid";
             komento.CommandText = poistokysely;
             komento.Connection = yhteys.otaYhteys();
             //ktu
-            komento.Parameters.Add("@ktu", MySqlDbType.UInt32).Value = ktunnus;
+            komento.Parameters.Add("@oid", MySqlDbType.UInt32).Value = ktunnus;
 
             yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1)

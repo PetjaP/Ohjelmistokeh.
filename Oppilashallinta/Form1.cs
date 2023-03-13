@@ -91,7 +91,7 @@ namespace Oppilashallinta
             tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
         
-private void tietotauluDG_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void tietotauluDG_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             idTB.Text = tietotauluDG.CurrentRow.Cells[0].Value.ToString();
             enimiTB.Text = tietotauluDG.CurrentRow.Cells[1].Value.ToString();
