@@ -28,72 +28,74 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.aikaLB = new System.Windows.Forms.Label();
-            this.KaynnistaBT = new System.Windows.Forms.Button();
-            this.LopetaBT = new System.Windows.Forms.Button();
-            this.TyhjennaBT = new System.Windows.Forms.Button();
-            this.AjastinTM = new System.Windows.Forms.Timer(this.components);
-            this.SuspendLayout();
+            components = new System.ComponentModel.Container();
+            aikaLB = new Label();
+            KaynnistaBT = new Button();
+            LopetaBT = new Button();
+            TyhjennaBT = new Button();
+            AjastinTM = new System.Windows.Forms.Timer(components);
+            SuspendLayout();
             // 
             // aikaLB
             // 
-            this.aikaLB.AutoSize = true;
-            this.aikaLB.Font = new System.Drawing.Font("Segoe UI", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.aikaLB.Location = new System.Drawing.Point(213, 121);
-            this.aikaLB.Name = "aikaLB";
-            this.aikaLB.Size = new System.Drawing.Size(585, 128);
-            this.aikaLB.TabIndex = 0;
-            this.aikaLB.Text = "00:00:00:000";
+            aikaLB.AutoSize = true;
+            aikaLB.Font = new Font("Segoe UI", 72F, FontStyle.Regular, GraphicsUnit.Point);
+            aikaLB.Location = new Point(213, 121);
+            aikaLB.Name = "aikaLB";
+            aikaLB.Size = new Size(585, 128);
+            aikaLB.TabIndex = 0;
+            aikaLB.Text = "00:00:00:000";
             // 
             // KaynnistaBT
             // 
-            this.KaynnistaBT.Location = new System.Drawing.Point(45, 265);
-            this.KaynnistaBT.Name = "KaynnistaBT";
-            this.KaynnistaBT.Size = new System.Drawing.Size(237, 88);
-            this.KaynnistaBT.TabIndex = 1;
-            this.KaynnistaBT.Text = "Käynnistä";
-            this.KaynnistaBT.UseVisualStyleBackColor = true;
+            KaynnistaBT.Location = new Point(45, 265);
+            KaynnistaBT.Name = "KaynnistaBT";
+            KaynnistaBT.Size = new Size(237, 88);
+            KaynnistaBT.TabIndex = 1;
+            KaynnistaBT.Text = "Käynnistä";
+            KaynnistaBT.UseVisualStyleBackColor = true;
+            KaynnistaBT.Click += KaynnistaBT_Click_1;
             // 
             // LopetaBT
             // 
-            this.LopetaBT.Location = new System.Drawing.Point(392, 265);
-            this.LopetaBT.Name = "LopetaBT";
-            this.LopetaBT.Size = new System.Drawing.Size(237, 88);
-            this.LopetaBT.TabIndex = 2;
-            this.LopetaBT.Text = "Lopeta";
-            this.LopetaBT.UseVisualStyleBackColor = true;
+            LopetaBT.Location = new Point(392, 265);
+            LopetaBT.Name = "LopetaBT";
+            LopetaBT.Size = new Size(237, 88);
+            LopetaBT.TabIndex = 2;
+            LopetaBT.Text = "Lopeta";
+            LopetaBT.UseVisualStyleBackColor = true;
+            LopetaBT.Click += LopetaBT_Click_1;
             // 
             // TyhjennaBT
             // 
-            this.TyhjennaBT.Location = new System.Drawing.Point(739, 265);
-            this.TyhjennaBT.Name = "TyhjennaBT";
-            this.TyhjennaBT.Size = new System.Drawing.Size(237, 88);
-            this.TyhjennaBT.TabIndex = 3;
-            this.TyhjennaBT.Text = "Tyhjennä";
-            this.TyhjennaBT.UseVisualStyleBackColor = true;
+            TyhjennaBT.Location = new Point(739, 265);
+            TyhjennaBT.Name = "TyhjennaBT";
+            TyhjennaBT.Size = new Size(237, 88);
+            TyhjennaBT.TabIndex = 3;
+            TyhjennaBT.Text = "Tyhjennä";
+            TyhjennaBT.UseVisualStyleBackColor = true;
+            TyhjennaBT.Click += TyhjennaBT_Click_1;
             // 
             // AjastinTM
             // 
-            this.AjastinTM.Enabled = true;
-            this.AjastinTM.Tick += new System.EventHandler(this.TyhjennaBT_Click);
+            AjastinTM.Enabled = true;
+            AjastinTM.Tick += AjastinTM_Tick_1;
             // 
             // SekkariForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1068, 485);
-            this.Controls.Add(this.aikaLB);
-            this.Controls.Add(this.TyhjennaBT);
-            this.Controls.Add(this.LopetaBT);
-            this.Controls.Add(this.KaynnistaBT);
-            this.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "SekkariForm";
-            this.Text = "Sekuntikello";
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1068, 485);
+            Controls.Add(aikaLB);
+            Controls.Add(TyhjennaBT);
+            Controls.Add(LopetaBT);
+            Controls.Add(KaynnistaBT);
+            Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Point);
+            Margin = new Padding(4);
+            Name = "SekkariForm";
+            Text = "Sekuntikello";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

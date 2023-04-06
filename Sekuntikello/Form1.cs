@@ -9,24 +9,31 @@ namespace Sekuntikello
             InitializeComponent();
         }
         private Stopwatch sekkari = new Stopwatch();
-      
-        private void KaynnistaBT_Click(object sender, EventArgs e)
+
+        private void AjastinTM_Tick(object sender, EventArgs e)
+        {
+            aikaLB.Text = String.Format("{0:hh\\:mm\\:ss\\:fff}", sekkari.Elapsed); // Tämä muuntaa Labelin Timerin toimimaan!
+        }
+
+        private void KaynnistaBT_Click_1(object sender, EventArgs e)
         {
             sekkari.Start(); // Käynnistä komento
         }
 
-        private void LopetaBT_Click(object sender, EventArgs e)
+        private void LopetaBT_Click_1(object sender, EventArgs e)
         {
             sekkari.Stop(); // Pysäytä komento
         }
 
-        private void TyhjennaBT_Click(object sender, EventArgs e)
+        private void TyhjennaBT_Click_1(object sender, EventArgs e)
+
         {
             sekkari.Reset(); // Tyhjennä komento
         }
-        private void AjastinTM_Tick(object sender, EventArgs e)
+
+        private void AjastinTM_Tick_1(object sender, EventArgs e)
         {
-           aikaLB.Text = String.Format("{0:hh\\:mm\\:ss\\:fff}", sekkari.Elapsed); // Tämä muuntaa Labelin Timerin toimimaan!
+            aikaLB.Text = String.Format("{0:hh\\:mm\\:ss\\:fff}", sekkari.Elapsed); // Tämä muuntaa Labelin Timerin toimimaan!
         }
     }
 }
