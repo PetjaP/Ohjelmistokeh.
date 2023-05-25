@@ -91,19 +91,11 @@ namespace Oppilashallinta
             tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
         
-        private void tietotauluDG_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            idTB.Text = tietotauluDG.CurrentRow.Cells[0].Value.ToString();
-            enimiTB.Text = tietotauluDG.CurrentRow.Cells[1].Value.ToString();
-            snimiTB.Text = tietotauluDG.CurrentRow.Cells[2].Value.ToString();
-            puhelinTB.Text = tietotauluDG.CurrentRow.Cells[3].Value.ToString();
-            emailTB.Text = tietotauluDG.CurrentRow.Cells[4].Value.ToString();
-            opiskelijaidTB.Text = tietotauluDG.CurrentRow.Cells[5].Value.ToString();
-        }
+   
 
         private void poistaBT_Click(object sender, EventArgs e)
         {
-            String ktunnus = opiskelijaidTB.Text;
+            String ktunnus = idTB.Text;
             if (opiskelija.poistaOpiskelija(ktunnus))
             {
                 tietotauluDG.DataSource = opiskelija.haeOpiskelijat();
@@ -113,10 +105,22 @@ namespace Oppilashallinta
             {
                 MessageBox.Show("Opiskelijaa ei pystytty poistamaan", "Opiskelijan poisto", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            poistaBT.PerformClick();
+            
         }
-        
-        
+
+        private void tietotauluDG_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            {
+                idTB.Text = tietotauluDG.CurrentRow.Cells[0].Value.ToString();
+                enimiTB.Text = tietotauluDG.CurrentRow.Cells[1].Value.ToString();
+                snimiTB.Text = tietotauluDG.CurrentRow.Cells[2].Value.ToString();
+                puhelinTB.Text = tietotauluDG.CurrentRow.Cells[3].Value.ToString();
+                emailTB.Text = tietotauluDG.CurrentRow.Cells[4].Value.ToString();
+                opiskelijaidTB.Text = tietotauluDG.CurrentRow.Cells[5].Value.ToString();
+            }
+        }
+
+       
     }
    
    

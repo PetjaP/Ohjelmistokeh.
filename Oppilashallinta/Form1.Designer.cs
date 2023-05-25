@@ -52,9 +52,10 @@
             // 
             this.idLB.AutoSize = true;
             this.idLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.idLB.Location = new System.Drawing.Point(43, 34);
+            this.idLB.Location = new System.Drawing.Point(29, 22);
+            this.idLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.idLB.Name = "idLB";
-            this.idLB.Size = new System.Drawing.Size(49, 32);
+            this.idLB.Size = new System.Drawing.Size(32, 24);
             this.idLB.TabIndex = 0;
             this.idLB.Text = "ID:";
             // 
@@ -62,9 +63,10 @@
             // 
             this.etunimiLB.AutoSize = true;
             this.etunimiLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.etunimiLB.Location = new System.Drawing.Point(43, 93);
+            this.etunimiLB.Location = new System.Drawing.Point(29, 60);
+            this.etunimiLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.etunimiLB.Name = "etunimiLB";
-            this.etunimiLB.Size = new System.Drawing.Size(118, 32);
+            this.etunimiLB.Size = new System.Drawing.Size(78, 24);
             this.etunimiLB.TabIndex = 1;
             this.etunimiLB.Text = "Etunimi:";
             // 
@@ -72,9 +74,10 @@
             // 
             this.sukunimiLB.AutoSize = true;
             this.sukunimiLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sukunimiLB.Location = new System.Drawing.Point(43, 152);
+            this.sukunimiLB.Location = new System.Drawing.Point(29, 99);
+            this.sukunimiLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.sukunimiLB.Name = "sukunimiLB";
-            this.sukunimiLB.Size = new System.Drawing.Size(140, 32);
+            this.sukunimiLB.Size = new System.Drawing.Size(93, 24);
             this.sukunimiLB.TabIndex = 2;
             this.sukunimiLB.Text = "Sukunimi:";
             // 
@@ -82,9 +85,10 @@
             // 
             this.puhelinLB.AutoSize = true;
             this.puhelinLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.puhelinLB.Location = new System.Drawing.Point(591, 34);
+            this.puhelinLB.Location = new System.Drawing.Point(394, 22);
+            this.puhelinLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.puhelinLB.Name = "puhelinLB";
-            this.puhelinLB.Size = new System.Drawing.Size(119, 32);
+            this.puhelinLB.Size = new System.Drawing.Size(79, 24);
             this.puhelinLB.TabIndex = 3;
             this.puhelinLB.Text = "Puhelin:";
             // 
@@ -92,9 +96,10 @@
             // 
             this.emailLB.AutoSize = true;
             this.emailLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.emailLB.Location = new System.Drawing.Point(591, 93);
+            this.emailLB.Location = new System.Drawing.Point(394, 60);
+            this.emailLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.emailLB.Name = "emailLB";
-            this.emailLB.Size = new System.Drawing.Size(164, 32);
+            this.emailLB.Size = new System.Drawing.Size(107, 24);
             this.emailLB.TabIndex = 4;
             this.emailLB.Text = "Sähköposti:";
             // 
@@ -102,70 +107,81 @@
             // 
             this.opiskelijanroLB.AutoSize = true;
             this.opiskelijanroLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.opiskelijanroLB.Location = new System.Drawing.Point(581, 152);
+            this.opiskelijanroLB.Location = new System.Drawing.Point(387, 99);
+            this.opiskelijanroLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.opiskelijanroLB.Name = "opiskelijanroLB";
-            this.opiskelijanroLB.Size = new System.Drawing.Size(244, 32);
+            this.opiskelijanroLB.Size = new System.Drawing.Size(162, 24);
             this.opiskelijanroLB.TabIndex = 5;
             this.opiskelijanroLB.Text = "Opiskelijanumero:";
             // 
             // idTB
             // 
-            this.idTB.Location = new System.Drawing.Point(207, 41);
+            this.idTB.Location = new System.Drawing.Point(138, 27);
+            this.idTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.idTB.Name = "idTB";
-            this.idTB.Size = new System.Drawing.Size(323, 26);
+            this.idTB.Size = new System.Drawing.Size(217, 20);
             this.idTB.TabIndex = 6;
+          
             // 
             // enimiTB
             // 
-            this.enimiTB.Location = new System.Drawing.Point(207, 93);
+            this.enimiTB.Location = new System.Drawing.Point(138, 60);
+            this.enimiTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.enimiTB.Name = "enimiTB";
-            this.enimiTB.Size = new System.Drawing.Size(323, 26);
+            this.enimiTB.Size = new System.Drawing.Size(217, 20);
             this.enimiTB.TabIndex = 7;
             // 
             // snimiTB
             // 
-            this.snimiTB.Location = new System.Drawing.Point(207, 158);
+            this.snimiTB.Location = new System.Drawing.Point(138, 103);
+            this.snimiTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.snimiTB.Name = "snimiTB";
-            this.snimiTB.Size = new System.Drawing.Size(323, 26);
+            this.snimiTB.Size = new System.Drawing.Size(217, 20);
             this.snimiTB.TabIndex = 8;
             // 
             // puhelinTB
             // 
-            this.puhelinTB.Location = new System.Drawing.Point(771, 40);
+            this.puhelinTB.Location = new System.Drawing.Point(514, 26);
+            this.puhelinTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.puhelinTB.Name = "puhelinTB";
-            this.puhelinTB.Size = new System.Drawing.Size(323, 26);
+            this.puhelinTB.Size = new System.Drawing.Size(217, 20);
             this.puhelinTB.TabIndex = 9;
             // 
             // emailTB
             // 
-            this.emailTB.Location = new System.Drawing.Point(771, 99);
+            this.emailTB.Location = new System.Drawing.Point(514, 64);
+            this.emailTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.emailTB.Name = "emailTB";
-            this.emailTB.Size = new System.Drawing.Size(323, 26);
+            this.emailTB.Size = new System.Drawing.Size(217, 20);
             this.emailTB.TabIndex = 10;
             // 
             // opiskelijaidTB
             // 
-            this.opiskelijaidTB.Location = new System.Drawing.Point(831, 159);
+            this.opiskelijaidTB.Location = new System.Drawing.Point(554, 103);
+            this.opiskelijaidTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.opiskelijaidTB.Name = "opiskelijaidTB";
-            this.opiskelijaidTB.Size = new System.Drawing.Size(263, 26);
+            this.opiskelijaidTB.Size = new System.Drawing.Size(177, 20);
             this.opiskelijaidTB.TabIndex = 11;
             // 
             // tietotauluDG
             // 
             this.tietotauluDG.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.tietotauluDG.Location = new System.Drawing.Point(12, 252);
+            this.tietotauluDG.Location = new System.Drawing.Point(8, 164);
+            this.tietotauluDG.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tietotauluDG.Name = "tietotauluDG";
             this.tietotauluDG.RowHeadersWidth = 62;
             this.tietotauluDG.RowTemplate.Height = 28;
-            this.tietotauluDG.Size = new System.Drawing.Size(1118, 325);
+            this.tietotauluDG.Size = new System.Drawing.Size(745, 211);
             this.tietotauluDG.TabIndex = 12;
-            this.tietotauluDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.tietotauluDG_CellContentClick);
+            this.tietotauluDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.tietotauluDG_CellClick);
+            
             // 
             // tyhjennaBT
             // 
-            this.tyhjennaBT.Location = new System.Drawing.Point(56, 194);
+            this.tyhjennaBT.Location = new System.Drawing.Point(37, 126);
+            this.tyhjennaBT.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tyhjennaBT.Name = "tyhjennaBT";
-            this.tyhjennaBT.Size = new System.Drawing.Size(231, 48);
+            this.tyhjennaBT.Size = new System.Drawing.Size(154, 31);
             this.tyhjennaBT.TabIndex = 13;
             this.tyhjennaBT.Text = "Tyhjennä";
             this.tyhjennaBT.UseVisualStyleBackColor = true;
@@ -173,9 +189,10 @@
             // 
             // tallennaBT
             // 
-            this.tallennaBT.Location = new System.Drawing.Point(325, 194);
+            this.tallennaBT.Location = new System.Drawing.Point(217, 126);
+            this.tallennaBT.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tallennaBT.Name = "tallennaBT";
-            this.tallennaBT.Size = new System.Drawing.Size(231, 48);
+            this.tallennaBT.Size = new System.Drawing.Size(154, 31);
             this.tallennaBT.TabIndex = 14;
             this.tallennaBT.Text = "Tallenna";
             this.tallennaBT.UseVisualStyleBackColor = true;
@@ -183,9 +200,10 @@
             // 
             // paivitaBT
             // 
-            this.paivitaBT.Location = new System.Drawing.Point(594, 194);
+            this.paivitaBT.Location = new System.Drawing.Point(396, 126);
+            this.paivitaBT.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.paivitaBT.Name = "paivitaBT";
-            this.paivitaBT.Size = new System.Drawing.Size(231, 48);
+            this.paivitaBT.Size = new System.Drawing.Size(154, 31);
             this.paivitaBT.TabIndex = 15;
             this.paivitaBT.Text = "Päivitä";
             this.paivitaBT.UseVisualStyleBackColor = true;
@@ -193,9 +211,10 @@
             // 
             // poistaBT
             // 
-            this.poistaBT.Location = new System.Drawing.Point(863, 191);
+            this.poistaBT.Location = new System.Drawing.Point(575, 124);
+            this.poistaBT.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.poistaBT.Name = "poistaBT";
-            this.poistaBT.Size = new System.Drawing.Size(231, 48);
+            this.poistaBT.Size = new System.Drawing.Size(154, 31);
             this.poistaBT.TabIndex = 16;
             this.poistaBT.Text = "Poista";
             this.poistaBT.UseVisualStyleBackColor = true;
@@ -203,9 +222,9 @@
             // 
             // OppilashallintaForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1142, 589);
+            this.ClientSize = new System.Drawing.Size(761, 383);
             this.Controls.Add(this.poistaBT);
             this.Controls.Add(this.paivitaBT);
             this.Controls.Add(this.tallennaBT);
@@ -223,6 +242,7 @@
             this.Controls.Add(this.sukunimiLB);
             this.Controls.Add(this.etunimiLB);
             this.Controls.Add(this.idLB);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "OppilashallintaForm";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.OppilashallintaForm_Load);
